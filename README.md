@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=holap780" alt="holap780" /></a> </p>
 
-//<h3 align="left">Connect with me:</h3>
-//<p align="left">
-//</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
